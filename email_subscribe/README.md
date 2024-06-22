@@ -1,1 +1,1 @@
-![Alt text](email_subscribe/public/images/image.png)
+![Alt text](public/images/image.png)
