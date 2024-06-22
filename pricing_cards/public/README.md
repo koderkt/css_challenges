@@ -1,1 +1,1 @@
-![Alt text](public/images/image.png)
+![Alt text](images/image.png)
